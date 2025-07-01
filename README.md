@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **palprateek2004@gmail.com**
 
-- ⚡ Fun fact **There is BIG money in coding**
+- ⚡ Fun fact **I once debugged code in my sleep and woke up with a pull request ready!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
