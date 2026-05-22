@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **palprateek2004@gmail.com**
 
-- ⚡ Fun fact **I once debugged code in my sleep and woke up with a pull request ready!**
+- ⚡ Fun fact **If your computer gets infected every time, there is a problem between the chair and the keyboard!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
