@@ -1,21 +1,58 @@
-[![MasterHead](https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-4.gif)]()
-<h1 align="center">Hi 👋, I'm Prateek Pal</h1>
-<h3 align="center">A passionate Data Science Engineer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*4fNBO_UDYEVxM0E5T2FyJQ.gif">
+# Namaste! 🙏
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=palprateek&label=Profile%20views&color=0e75b6&style=flat" alt="palprateek" /> </p>
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes)
+<img align="right" alt="AI Animation" width="220" src="https://miro.medium.com/v2/resize:fit:1400/1*4fNBO_UDYEVxM0E5T2FyJQ.gif"/>
 
-- 🌱 I’m currently learning **Python**
+I'm **Prateek**, a Computer Science student from 🇮🇳 India, exploring AI, Machine Learning, LLMs, and Cloud Computing.
 
-- 📫 How to reach me **palprateek2004@gmail.com**
+---
 
-- ⚡ Fun fact **If your computer gets infected every time, there is a problem between the chair and the keyboard!**
+## 🛠 Technologies and Tools
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.hackerrank.com/palprateek2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="palprateek" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/palprateek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="palprateek" height="30" width="40" /></a>
+<p>
+  <img src="https://img.shields.io/badge/Java-282C34?logo=openjdk&logoColor=white" height="25" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/C++-282C34?logo=cplusplus&logoColor=00599C" height="25" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3776AB" height="25" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" height="25" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Zed-282C34?logo=zedindustries&logoColor=white" height="25" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 📖 Currently Learning
+
+<p>
+  <img src="https://img.shields.io/badge/Machine%20Learning-282C34?logo=scikitlearn&logoColor=F7931E" height="25" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Generative%20AI-282C34?logo=openai&logoColor=white" height="25" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/LLMs-282C34?logo=huggingface&logoColor=FFD21E" height="25" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/AI%20Agents-282C34?logo=robotframework&logoColor=white" height="25" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/AWS-282C34?logo=amazonaws&logoColor=FF9900" height="25" />
+</p>
+
+## 🚀 Interested In
+
+<p>
+  <img src="https://img.shields.io/badge/Rust-282C34?logo=rust&logoColor=white" height="25" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/MCP-282C34?logo=protocolsio&logoColor=white" height="25" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Kubernetes-282C34?logo=kubernetes&logoColor=326CE5" height="25" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/GraphQL-282C34?logo=graphql&logoColor=E10098" height="25" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/gRPC-282C34?logo=grpc&logoColor=white" height="25" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/SaaS-282C34?logo=icloud&logoColor=white" height="25" />
+</p>
+
+## 🔗 Connect With Me
+
+<a href="https://www.linkedin.com/in/palprateek/">
+  <img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" height="25" />
+</a>
