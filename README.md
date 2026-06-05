@@ -1,7 +1,7 @@
 # Namaste! 🙏
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes)
-<img align="right" alt="AI Animation" width="220" src="https://miro.medium.com/v2/resize:fit:1400/1*4fNBO_UDYEVxM0E5T2FyJQ.gif"/>
+<img align="right" alt="AI Animation" width="220" src="https://i.giphy.com/78XCFBGOlS6keY1Bil.webp"/>
 
 I'm **Prateek**, a Computer Science student from 🇮🇳 India, exploring AI, Machine Learning, LLMs, and Cloud Computing.
 
